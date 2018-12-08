@@ -1,8 +1,8 @@
 # Site
-title: its me, Dien!
-description: Sleman, D.I Yogyakarta
+title: Dien! Learn to be Better
+description: Hai, nama saya Dien Kamal, saya tinggal di Sleman, saya suka sesuatu tentang teknologi pemrogaman.
 url: https://dien16.github.io/
-logo: halve.png                                       # Site logo
+logo: dien.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -31,11 +31,11 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            dienkamal
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             dien16
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          dien-kamal-209185a8
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -48,11 +48,11 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-#codepen:           username
+codepen:           intifada95
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 # gem diganti plugin

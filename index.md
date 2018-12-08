@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Tentang saya!
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Saya menyukai berbagai teknologi, apalagi yang berhubungan dengan pemrogaman web. Saya berasal dari Blora, dan sekarang tinggal di Sleman untuk mencoba menambah pengalaman tentang dunia pemrogaman.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Ini adalah homepage pribadiku dimana pengalaman dan pengetahuan tentang dunia pemrogaman akan saya utarakan lewat kata-kata yang termuat dalam post dan project. 
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Hubungi saya untuk lebih lanjut di [dien_kamal@ymail.com](mailto:dien_kamal@ymail.com).

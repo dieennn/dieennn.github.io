@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2018-12-07T21:29:01+07:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">its me, Dien!</title><subtitle>Sleman, D.I Yogyakarta</subtitle><entry><title type="html">Belajar Menggunakan Jekyll</title><link href="http://localhost:4001/jekyll-me/" rel="alternate" type="text/html" title="Belajar Menggunakan Jekyll" /><published>2018-12-06T00:00:00+07:00</published><updated>2018-12-06T00:00:00+07:00</updated><id>http://localhost:4001/jekyll-me</id><content type="html" xml:base="http://localhost:4001/jekyll-me/">&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-09T00:15:44+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dien! Learn to be Better</title><subtitle>Hai, nama saya Dien Kamal, saya tinggal di Sleman, saya suka sesuatu tentang teknologi pemrogaman.</subtitle><entry><title type="html">Belajar Menggunakan Jekyll</title><link href="http://localhost:4000/jekyll-me/" rel="alternate" type="text/html" title="Belajar Menggunakan Jekyll" /><published>2018-12-06T00:00:00+07:00</published><updated>2018-12-06T00:00:00+07:00</updated><id>http://localhost:4000/jekyll-me</id><content type="html" xml:base="http://localhost:4000/jekyll-me/">&lt;figure&gt;
   
-&lt;img src=&quot;http://localhost:4001/images/logo-2x.png&quot; alt=&quot;Foo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/logo-2x.png&quot; alt=&quot;Foo&quot; /&gt;
 
   &lt;figcaption&gt;Logo Jekyll&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -15,12 +15,12 @@ Seperti judul pada halaman ini, nanti akan belajar menggunakan jekyll. Apa itu j
 
 &lt;figure&gt;
   
-&lt;img src=&quot;http://localhost:4001/images/home-page-jekyll.png&quot; alt=&quot;Foo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/home-page-jekyll.png&quot; alt=&quot;Foo&quot; /&gt;
 
   &lt;figcaption&gt;Homepage Jekyll&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;!-- &lt;a href=&quot;http://localhost:4001/install-ruby-di-windows/&quot;&gt;di sini&lt;/a&gt; --&gt;
+&lt;!-- &lt;a href=&quot;http://localhost:4000/install-ruby-di-windows/&quot;&gt;di sini&lt;/a&gt; --&gt;
 
 &lt;h3 id=&quot;kebutuhan&quot;&gt;Kebutuhan&lt;/h3&gt;
 &lt;p&gt;Ada beberapa tahapan dalam proses pembuatannya.&lt;/p&gt;
@@ -37,11 +37,11 @@ pertama buka command prompt (windows only), kemudian ketikkan &lt;code class=&qu
 &lt;h3 id=&quot;proses-generate-website&quot;&gt;Proses generate website.&lt;/h3&gt;
 &lt;p&gt;Pastikan sudah membuka command prompt, kemudian ketik &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new BelajarJekyll&lt;/code&gt; lalu enter, pada perintah tersebut akan membuat website dengan nama/folder BelajarJekyll. Kemudian masuk pada folder tersebut dengan cara &lt;code class=&quot;highlighter-rouge&quot;&gt;cd BelajarJekyll&lt;/code&gt;, lalu ketik &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; untuk mengaktifkan server jekyll.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4001/images/serve-start.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/serve-start.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Gambar di atas menandakan server jekyll pada website sudah aktif, kemudian untuk melihat website tersebut buka url berikut &lt;code class=&quot;highlighter-rouge&quot;&gt;http://127.0.0.1:4000/&lt;/code&gt; di browser. Secara default tampilan jekyll di browser seperti ini.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4001/images/jekyll-homepage.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/jekyll-homepage.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kemudian bagaimana merubah tampilan tersebut? sebelum itu mari berkenalan dengan struktur folder jekyll, berikut merupakan struktur folder jekyll;&lt;/p&gt;
 
@@ -63,9 +63,9 @@ Hai Dunia, Mari belajar membuat website statis menggunakan jekyll sangat mudah l
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Muat ulang pada browser dan akan ada post baru berjudul &lt;code class=&quot;highlighter-rouge&quot;&gt;Belajar Jekyll Markdown&lt;/code&gt; 
-&lt;img src=&quot;http://localhost:4001/images/jekyll-homepage-update.png&quot; alt=&quot;Foo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/jekyll-homepage-update.png&quot; alt=&quot;Foo&quot; /&gt;
 jika diklik akan mendapati tampilan berikut.
-&lt;img src=&quot;http://localhost:4001/images/jekyll-homepage-update2.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/jekyll-homepage-update2.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Sekian penjelasan tentang bagaimana menggunakan jekyll. Mohon maaf jika ada salah kata. See yea,&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="belajar" /><category term="jekyll" /><category term="pemula" /><category term="newbie akut" /><summary type="html"></summary></entry><entry><title type="html">Install Ruby di Windows</title><link href="http://localhost:4001/install-ruby-di-windows/" rel="alternate" type="text/html" title="Install Ruby di Windows" /><published>2018-12-06T00:00:00+07:00</published><updated>2018-12-06T00:00:00+07:00</updated><id>http://localhost:4001/install-ruby-di-windows</id><content type="html" xml:base="http://localhost:4001/install-ruby-di-windows/">&lt;p&gt;Sorry, this page on progress. . .
+&lt;p&gt;Sekian penjelasan tentang bagaimana menggunakan jekyll. Mohon maaf jika ada salah kata. See yea,&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="belajar" /><category term="jekyll" /><category term="pemula" /><category term="newbie akut" /><summary type="html"></summary></entry><entry><title type="html">Install Ruby di Windows</title><link href="http://localhost:4000/install-ruby-di-windows/" rel="alternate" type="text/html" title="Install Ruby di Windows" /><published>2018-12-06T00:00:00+07:00</published><updated>2018-12-06T00:00:00+07:00</updated><id>http://localhost:4000/install-ruby-di-windows</id><content type="html" xml:base="http://localhost:4000/install-ruby-di-windows/">&lt;p&gt;Sorry, this page on progress. . .
 Stay Cool!&lt;/p&gt;</content><author><name></name></author><category term="install" /><category term="belajar" /><category term="memasang" /><category term="ruby" /><summary type="html">Sorry, this page on progress. . . Stay Cool!</summary></entry></feed>
