@@ -17,14 +17,17 @@ If you have a question, find a bug, or just want to say hi, please open an [issu
 See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
  -->
 
+# My Homepage
 
-# Credits
+## Credits
+
 - Theme From : [Taylan Tatli](https://taylantatli.github.io/Halve/halve-theme/)
 - Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
 - Sample Posts and some code examples: [Michael Rose](https://github.com/mmistakes/)
 - Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
 
 ### Others
+
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
